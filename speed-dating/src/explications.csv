@@ -1,0 +1,40 @@
+Colonne,Description
+id_c,Identifiant du candidat
+genre_c,Genre du candidat
+choix_c,Le candidat a limité son nombre de partenaires ?
+round_c,Nombre de round que le candidat a effectué
+ordre_p,Ordre de rencontre du partenaire
+id_p,Identifiant du partenaire
+match,"Second date ou non ? 1 = oui, 0 = non"
+corr_p,Correlation entre candidat et partenaire sur les intérêts
+memerace_p,Le partenaire est-il de la même race ?
+age_p,Age du partenaire
+race_p,Race du partenaire
+decision_p,Décision du partenaire pour un second date
+age_c,Age du candidat
+etude_c,Domaine d'étude du candidat
+ecole_c,Quelle école ont-ils fréquenté avant de venir ici ?
+race_c,Race du candidat
+imprace_c,Importance de la race pour le candidat
+impreligion_c,Importance de la religion pour le candidat
+from_c,D'où le candidat vient (avant Columbia)
+revenue_c,Revenue médian du candidat selon d'où il vient
+objectif_c,L'objectif du candidat à participer à cet évènement
+date_c,Fréquence du candidat à aller en date
+sortir_c,Fréquence de sortie du candidat
+carriere_c,La carrière que souhaite faire le candidat après son diplome
+satisfaction_c,Niveau de satisfaction du candidat à l'égard des personnes rencontrées.
+interesse_c,Estimation du nombre de partenaires intéressés par le candidat sur 20 rencontres.
+pref_attirance_p,Préférence du partenaire pour l'attirance du candidat
+pref_sincerite_p,Préférence du partenaire pour la sincérité du candidat
+pref_intelligence_p,Préférence du partenaire pour l'intelligence du candidat
+pref_fun_p,Préférence du partenaire pour le fun du candidat
+pref_ambition_p,Préférence du partenaire pour l'ambition du candidat
+pref_interets_p,Préférence du partenaire pour les intérêts du candidat
+note_attirance_p,Note du partenaire pour l'attirance du candidat
+note_sincerite_p,Note du partenaire pour la sincérité du candidat
+note_intelligence_p,Note du partenaire pour l'intelligence du candidat
+note_fun_p,Note du partenaire pour le fun du candidat
+note_ambition_p,Note du partenaire pour l'ambition du candidat
+note_interets_p,Note du partenaire pour les intérêts du candidat
+note_globale_p,Note globale du partenaire pour le candidat
