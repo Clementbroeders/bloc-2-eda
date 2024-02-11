@@ -2,12 +2,12 @@
 
 ## 1) Speed Dating
 
-GitHub repository : [Speed Dating EDA](speed-dating-eda) 
+GitHub repository : [Speed Dating EDA](speed-dating) 
 
 <br>
 
 ## 2) Steam's videogames platform 👾
 
-GitHub repository : [Steam Analysis (PySpark)](steam-analysis-pyspark)
+GitHub repository : [Steam Analysis (PySpark)](steam-analysis)
 
 <br>
